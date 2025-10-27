@@ -46,3 +46,8 @@ pipeline {
 
 #10 Repo
 https://github.com/ArpitaKadtane/mydockerapp.git
+
+#Jenkins cred 
+Auth token - : 09cebf21883a4b2c9579fc95c902182a
+username - : admin 
+
