@@ -43,3 +43,6 @@ pipeline {
         }
     }
 }
+
+#10 Repo
+https://github.com/ArpitaKadtane/mydockerapp.git
