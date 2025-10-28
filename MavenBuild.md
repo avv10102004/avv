@@ -51,3 +51,5 @@ https://github.com/ArpitaKadtane/mydockerapp.git
 Auth token - : 09cebf21883a4b2c9579fc95c902182a
 username - : admin 
 
+#Pipeline for any java application 
+https://github.com/athrv1837/myjavaapp.git
